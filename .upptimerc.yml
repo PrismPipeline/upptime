@@ -54,8 +54,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.prism-pipeline.com
-  baseUrl: /upptime
+  cname: status.prism-pipeline.com
+  # baseUrl: /upptime
   # logoUrl: https://prism-pipeline.com/wp-content/uploads/2025/01/prism-pipeline-logo-cd-scaled.jpg
   color_theme: "#AF326D" # A color hex code to customize the status page
   name: Prism Pipeline - Upptime
