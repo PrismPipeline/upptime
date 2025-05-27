@@ -45,26 +45,20 @@ owner: PrismPipeline # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: "Prism-Pipeline Website"
-    url: "https://prism-pipeline.com"
-  - name: "Prism-Pipeline License Server"
-    url: "https://service.prism-pipeline.com"
+  - name: Prism-Pipeline Website
+    url: https://prism-pipeline.com
+  - name: Prism-Pipeline License Server
+    url: https://service.prism-pipeline.com
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.prism-pipeline.com
-  baseUrl: /upptime
   logoUrl: https://prism-pipeline.com/wp-content/uploads/2025/01/prism-pipeline-logo-cd-scaled.jpg
-  color_theme: "#AF326D" # A color hex code to customize the status page
-  name: Prism Pipeline Status
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  #navbar:
-  #  - title: Status
-  #    href: /
-  #  - title: GitHub
-  #    href: https://github.com/$OWNER/$REPO
+  #color_theme: "#AF326D" # A color hex code to customize the status page
+  name: Prism Pipeline - Upptime
+  introTitle: Prism Pipeline Status
+  user-agent: upptime
 
 
