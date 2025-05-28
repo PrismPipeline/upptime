@@ -8,6 +8,9 @@ sites:
     url: https://service.prism-pipeline.com
     icon: https://prism-pipeline.com
 
+i18n:
+  footer:
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,6 +27,7 @@ status-website:
       href: /
     - title: Prism Pipeline
       href: https://prism-pipeline.com
+
 
 
 
