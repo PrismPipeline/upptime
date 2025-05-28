@@ -1,15 +1,13 @@
 owner: PrismPipeline # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+
 sites:
   - name: Prism-Pipeline Website
     url: https://prism-pipeline.com
   - name: Prism-Pipeline License Server
     url: https://service.prism-pipeline.com
     icon: https://prism-pipeline.com
-
-i18n:
-  footer: If you have any questions, please contact us at contact@prism-pipeline.com.
 
 
 status-website:
@@ -27,6 +25,11 @@ status-website:
       href: /
     - title: Prism Pipeline
       href: https://prism-pipeline.com
+  
+      
+i18n:
+  # Change default footer
+  footer: If you have any questions, please contact us at contact@prism-pipeline.com.
 
 
 
