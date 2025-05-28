@@ -8,8 +8,8 @@ sites:
     url: https://service.prism-pipeline.com
     icon: https://prism-pipeline.com
 
-#i18n:
-#  footer:
+i18n:
+  footer: test
 
 
 status-website:
