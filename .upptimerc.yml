@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Prism-Pipeline Website
-    url: https://prism-pipeline.com
+    url: https://prism-pipeline.com/impressum/
   - name: Prism-Pipeline License Server
     url: https://service.prism-pipeline.com
     icon: https://prism-pipeline.com
