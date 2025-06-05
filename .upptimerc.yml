@@ -20,6 +20,7 @@ status-website:
   introTitle: Prism Pipeline Status
   # theme: night
   themeUrl: https://status.prism-pipeline.com/prism-theme.css
+  favicon: https://status.prism-pipeline.com/favicon.png
   navbar:
     - title: Status
       href: /
