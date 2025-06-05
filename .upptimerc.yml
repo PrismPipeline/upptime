@@ -16,14 +16,14 @@ status-website:
   # baseUrl: /upptime
   cname: status.prism-pipeline.com
   name: Prism Pipeline - Upptime
-  logoUrl: https://prism-pipeline.com/wp-content/uploads/2021/04/cropped-prisim-pipeline-icon.png
+  logoUrl: https://status.prism-pipeline.com/prism-logo-icon.png
   introTitle: Prism Pipeline Status
   # theme: night
   themeUrl: https://status.prism-pipeline.com/prism-theme.css
   navbar:
     - title: Status
       href: /
-    - title: Prism Pipeline
+    - title: Go to Prism Pipeline
       href: https://prism-pipeline.com
   
       

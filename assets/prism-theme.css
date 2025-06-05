@@ -1,8 +1,61 @@
 :root {
-  --body-background-color: #000000;
+  --body-background-color: #111111;
   --body-text-color: #f0ffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #002b29;
-  --nav-border-bottom-color: #AF326D;
+  --card-background-color: #111111;
+  --nav-background-color: transparent;
+  --nav-border-bottom-color: #111111;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  font-weight: bold !important;
+}
+
+h3 {
+  font-size: 16px !important;
+}
+
+body {
+  background: linear-gradient(180deg, rgba(17, 17, 17, 0.6) 0%, rgba(17, 17, 17, 0.9) 30%, rgba(17, 17, 17, 1) 100%), url("https://status.prism-pipeline.com/page-back.jpg");
+  background-size: cover, cover;
+  min-height: 100vh;
+}
+
+nav {
+  border: none !important;
+}
+
+.logo img {
+  height: 80px;
+  margin-left: -18px;
+}
+
+article.up,
+article.down {
+  border: 1px #222222 solid !important;
+}
+
+.tag.up,
+.tag.closed,
+.tag.down {
+  font-size: 16px;
+}
+
+.tag.up,
+.tag.closed {
+  background: #338822 !important;
+}
+
+.tag.down {
+  background: #bb3322 !important;
+}
+
+footer {
+  color: #bbbbbb;
+  font-size: 15px;
+  margin-top: 60px;
+}
