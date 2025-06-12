@@ -3,11 +3,16 @@ repo: upptime # The name of this repository
 
 
 sites:
-  - name: Prism-Pipeline Website
+  - name: Prism Pipeline Website
     url: https://prism-pipeline.com/impressum/
-  - name: Prism-Pipeline License Server
+  - name: Prism Pipeline License Server
     url: https://service.prism-pipeline.com
-    icon: https://prism-pipeline.com
+    icon: https://status.prism-pipeline.com/favicon.png
+  - name: Prism Pipeline Payment
+    url: https://dashboard.stripe.com/login
+    icon: https://status.prism-pipeline.com/favicon.png
+  - name: Prism Pipeline Documentation
+    url: https://prism-pipeline.com/docs/latest/
 
 
 status-website:
@@ -15,14 +20,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /upptime
   cname: status.prism-pipeline.com
-  name: Prism Pipeline - Upptime
+  name: Prism Pipeline
   logoUrl: https://status.prism-pipeline.com/prism-logo-icon.png
   introTitle: Prism Pipeline Status
   # theme: night
   themeUrl: https://status.prism-pipeline.com/prism-theme.css
   favicon: https://status.prism-pipeline.com/favicon.png
   navbar:
-    - title: Status
+    - title: Overview
       href: /
     - title: Go to Prism Pipeline
       href: https://prism-pipeline.com
