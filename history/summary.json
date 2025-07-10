@@ -15,10 +15,7 @@
     "timeWeek": 2237,
     "timeMonth": 2584,
     "timeYear": 2329,
-    "dailyMinutesDown": {
-      "2025-06-28": 14,
-      "2025-06-01": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prism Pipeline License Server",
