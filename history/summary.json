@@ -6,15 +6,15 @@
     "slug": "prism-pipeline-website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 2292,
-    "timeDay": 2116,
-    "timeWeek": 2147,
-    "timeMonth": 2662,
-    "timeYear": 2292,
+    "time": 2293,
+    "timeDay": 2317,
+    "timeWeek": 2227,
+    "timeMonth": 2668,
+    "timeYear": 2293,
     "dailyMinutesDown": {
       "2025-07-25": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 466,
-    "timeWeek": 471,
-    "timeMonth": 475,
-    "timeYear": 543,
+    "time": 546,
+    "timeDay": 834,
+    "timeWeek": 536,
+    "timeMonth": 483,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 290,
-    "timeWeek": 294,
-    "timeMonth": 306,
+    "timeDay": 276,
+    "timeWeek": 295,
+    "timeMonth": 307,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 112,
-    "timeWeek": 132,
+    "time": 141,
+    "timeDay": 185,
+    "timeWeek": 142,
     "timeMonth": 139,
-    "timeYear": 140,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   }
 ]
