@@ -35,9 +35,9 @@
     "url": "https://service.prism-pipeline.com",
     "icon": "https://status.prism-pipeline.com/favicon.png",
     "slug": "prism-pipeline-license-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -47,6 +47,7 @@
     "timeMonth": 452,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2026-03-12": 0,
       "2025-08-28": 17
     }
   },
